@@ -1,0 +1,22 @@
+# === Rust / Cargo ===
+target/
+**/target/
+**/Cargo.lock
+
+# === VS Code ===
+.vscode/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === JSON files used for data storage ===
+*.json
+
+
+# === Git ===
+.git/
+
+# === Backup / Temp ===
+*.rs.bk
+*~
