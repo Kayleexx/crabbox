@@ -6,7 +6,7 @@ pub fn remove_expense(expenses: &mut Vec<Expense>) {
     let mut id_input = String::new();
     io::stdin().read_line(&mut id_input).unwrap();
 
-    // Parse the ID from user input
+
     let id: u32 = id_input.trim().parse().unwrap_or_else(|_| {
         println!("Invalid input, please enter a valid ID.");
         0
