@@ -1,6 +1,6 @@
-# 🦀 crabox
+# 🦀 crabbox
 
-Welcome to **crabox**, a collection of bite-sized Rust projects 🧠 aimed at sharpening my Rust skills through real-world use cases.
+Welcome to **crabbox**, a collection of bite-sized Rust projects 🧠 aimed at sharpening my Rust skills through real-world use cases.
 
 Each subproject focuses on a specific concept or domain—like file handling, CLI interactivity, or data modeling—making it a great learning and exploration space for both me and anyone interested in practical Rust.
 
