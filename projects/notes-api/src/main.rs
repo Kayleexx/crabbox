@@ -3,6 +3,7 @@ use std::sync::Mutex;
 use std::collections::HashMap;
 mod models;
 use models::{Note, CreateNote};
+use dotenv::dotenv;
 
 type Notes = Mutex<HashMap<u32, Note>>;  
 
