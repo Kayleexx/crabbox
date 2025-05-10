@@ -58,11 +58,11 @@ Planned features:
 - Connection pooling with `diesel::r2d2::ConnectionManager`
 - Struct mapping with Diesel schema
 
----
+
 
 ## 🚧 More coming soon
 
----
+
 
 ## 🧪 Goals
 
@@ -71,13 +71,13 @@ Planned features:
 - Get comfortable with serialization (`serde`)
 - Build confidence through repetition
 
----
+
 
 ## 🧑‍💻 Author
 
 Built with ❤️ and curiosity by [Mitali].
 
----
+
 
 ## 🦀 Why Rust?
 
