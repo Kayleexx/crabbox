@@ -30,10 +30,7 @@ Includes modular commands:
 ---
 
 ### ✅ 2. CLI Todo App
-<<<<<<< HEAD
 
-=======
->>>>>>> fae4465173cfc46dc19ed789e7d5ec4b4fe818cc
 > A Todo manager that reads/writes to a local JSON file.
 
 Planned features:
