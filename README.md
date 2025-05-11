@@ -139,11 +139,3 @@ Includes modular commands:
 Built with ❤️ and curiosity by **Mitali**.
 
 
-
-## 🦀 Why Rust?
-
-Because it forces me to think clearly, write safely, and rage respectfully.
-<<<<<<< HEAD
-=======
-
->>>>>>> fae4465173cfc46dc19ed789e7d5ec4b4fe818cc
