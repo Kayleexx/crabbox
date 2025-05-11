@@ -1,4 +1,4 @@
 [workspace]
-members = [ "projects/axum_url_shortener", "projects/book_tracker_api", "projects/expense-tracker", "projects/notes-api", "projects/timeTracker",
+members = [ "projects/axum_url_shortener", "projects/book_tracker_api", "projects/expense-tracker", "projects/notes-api", "projects/timetracker",
     "projects/todo-app"
 ]
