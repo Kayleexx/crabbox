@@ -30,7 +30,10 @@ Includes modular commands:
 ---
 
 ### ✅ 2. CLI Todo App
+<<<<<<< HEAD
 
+=======
+>>>>>>> fae4465173cfc46dc19ed789e7d5ec4b4fe818cc
 > A Todo manager that reads/writes to a local JSON file.
 
 Planned features:
@@ -90,13 +93,36 @@ Includes modular commands:
 
 ---
 
-## 🚧 More coming soon
+### ✅ 3. Notes CRUD API (In-memory storage)
+> A simple Notes API built with Rust, using Actix-web and in-memory storage for quick testing.
+
+🧠 Features:
+- Create, read, update, and delete notes
+- REST API structure with Actix-web
+- In-memory storage using a `HashMap`
+- Simple error handling and response formatting
 
 * Advanced CLI tools with `clap` and `dialoguer`
 * Rust web backends with Actix-web and Axum
 * Blockchain projects with Solana and Rust
 
 ---
+
+### ✅ 4. Book Library API (Actix-web + Diesel ORM + PostgreSQL)
+> A REST API for managing books, using Actix-web, Diesel ORM, and PostgreSQL.
+
+🧠 Features:
+- Add, get, and list books in the library
+- PostgreSQL database integration with Diesel ORM
+- Routes for managing book data
+- Connection pooling with `diesel::r2d2::ConnectionManager`
+- Struct mapping with Diesel schema
+
+
+
+## 🚧 More coming soon
+
+
 
 ## 🧪 Goals
 
@@ -106,14 +132,18 @@ Includes modular commands:
 * Build confidence through repetition
 * Develop a strong understanding of building CLI tools
 
----
+
 
 ## 🧑‍💻 Author
 
 Built with ❤️ and curiosity by **Mitali**.
 
----
+
 
 ## 🦀 Why Rust?
 
 Because it forces me to think clearly, write safely, and rage respectfully.
+<<<<<<< HEAD
+=======
+
+>>>>>>> fae4465173cfc46dc19ed789e7d5ec4b4fe818cc
